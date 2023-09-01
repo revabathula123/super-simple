@@ -1,0 +1,36 @@
+/* Add space between headings and paragraphs */
+.about-container h1,
+.about-container h2,
+.about-container h3 {
+    margin-bottom: 10px; /* You can adjust the value (e.g., 10px) to control the amount of space */
+}
+
+/* Apply color styles to elements in your "about.html" page */
+body {
+    background-color: #c12cb5; /* Background color for the entire page */
+    color: #333; /* Text color */
+}
+
+.logo {
+    color: #000; /* Color for the "SEND" logo */
+}
+
+nav a {
+    color: #000; /* Link color */
+}
+
+nav a:hover {
+    color: #fff; /* Link color on hover */
+}
+
+.hero {
+    background-color: forestgreen; /* Background color for the "hero" section */
+}
+
+.column-left h1 {
+    color: #333; /* Color for the main heading in the "column-left" section */
+}
+
+.column-left p {
+    color: #555; /* Color for paragraphs in the "column-left" section */
+}
