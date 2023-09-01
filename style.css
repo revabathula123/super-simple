@@ -15,13 +15,6 @@
     padding: 0rem calc((100vw - 1300px) / 2);
   }
   
-  .logo {
-    color: #000;
-    font-size: 1.1rem;
-    font-weight: bold;
-    font-style: italic;
-    padding: 0 2rem;
-  }
   
   nav a {
     text-decoration: none;
